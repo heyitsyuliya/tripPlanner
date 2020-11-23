@@ -1,0 +1,29 @@
+{
+  "name": "tripPlanner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack -w"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vuthuylinh/tripPlanner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vuthuylinh/tripPlanner/issues"
+  },
+  "homepage": "https://github.com/Vuthuylinh/tripPlanner#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {
+    "webpack": "^5.6.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
